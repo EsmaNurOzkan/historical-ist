@@ -1,0 +1,66 @@
+[
+    {
+      "name": "Hagia Sophia",
+      "date": "537",
+      "description": "Hagia Sophia is an iconic symbol of Istanbul. It was originally built as a church during the Byzantine Empire and later converted into a mosque during the Ottoman era. In 2020, it was reopened as a mosque. It is famous for its grand dome and stunning art.",
+      "image": "/imgs/ayasofya.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Ayasofya"
+    },
+    {
+      "name": "Archaeology Museums",
+      "date": "1891",
+      "description": "The Archaeology Museums consist of three separate museums: the Archaeological Museum, the Museum of Ancient Orient, and the Tiled Kiosk. These museums are a treasure trove for those interested in exploring Istanbul's rich history. They house ancient sculptures, inscriptions, ceramics, and more.",
+      "image": "/imgs/arkeoloji-muzeleri.jpg",
+      "url" : "https://tr.wikipedia.org/wiki/%C4%B0stanbul_Arkeoloji_M%C3%BCzeleri"
+    },
+    {
+      "name": "Dolmabahçe Palace",
+      "date": "1856",
+      "description": "Dolmabahçe Palace, a magnificent palace constructed during the final years of the Ottoman Empire. Located along the Bosphorus in Istanbul, it features European-style architecture and is known for its opulent interior decoration, furniture, and crystal chandeliers.",
+      "image": "/imgs/dolmabahce.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Dolmabah%C3%A7e_Saray%C4%B1"
+    },
+    {
+      "name": "Galata Tower",
+      "date": "1348",
+      "description": "The Galata Tower offers panoramic views of Istanbul's historic peninsula. This tower has an intriguing history and provides visitors with the opportunity to enjoy the Istanbul skyline. Additionally, it houses a small museum and a restaurant.",
+      "image": "/imgs/galata-kulesi.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Galata_Kulesi"
+    },
+    {
+      "name": "Grand Bazaar",
+      "date": "1461",
+      "description": "The Grand Bazaar is one of Istanbul's most famous shopping destinations. Known for its thousands of shops and a wide variety of products, the bazaar is a hub for jewelry, carpets, textiles, and more. It's a great place for history and shopping enthusiasts alike.",
+      "image": "/imgs/kapali-carsi.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Kapal%C4%B1%C3%A7ar%C5%9F%C4%B1#Tarihi"
+    },
+    {
+      "name": "Süleymaniye Mosque",
+      "date": "1557",
+      "description": "The Süleymaniye Mosque is a magnificent Ottoman mosque designed by the famous architect Mimar Sinan. It graces the Istanbul skyline and is known for its intricate interior decoration and expansive courtyard. It also houses several historic structures and tombs within its complex.",
+      "image": "/imgs/suleymaniye-camii.jpg",
+      "url": "https://tr.wikipedia.org/wiki/S%C3%BCleymaniye_Camii"
+    },
+    {
+      "name": "Blue Mosque",
+      "date": "1616",
+      "description": "The Blue Mosque, also known as the Sultan Ahmed Mosque, is one of Istanbul's most recognizable landmarks. Adorned with stunning blue ceramic tiles in its interior, it is located in Sultanahmet Square and offers visitors a glimpse into the city's rich history.",
+      "image": "/imgs/sultan-ahmet.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Sultanahmet_Camii"
+    },
+    {
+      "name": "Topkapi Palace",
+      "date": "1465",
+      "description": "Topkapi Palace was the central residence of the Ottoman Empire and is home to a rich collection of historical artifacts. The palace features the Harem, imperial rooms, precious jewelry, and significant collections. Its gardens and views are also appealing to visitors.",
+      "image": "/imgs/topkapi-sarayi.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Topkap%C4%B1_Saray%C4%B1"
+    },
+    {
+      "name": "Basilica Cistern",
+      "date": "532",
+      "description": "The Basilica Cistern, also known as the Yerebatan Sarnıcı, is an underground cistern in Istanbul, originally built as a water storage system. It is famous for its mesmerizing columns and mystical atmosphere. The Basilica Cistern offers visitors a journey into history and mystery.",
+      "image": "/imgs/yerebatan.jpg",
+      "url": "https://tr.wikipedia.org/wiki/Yerebatan_Sarn%C4%B1c%C4%B1"
+    }
+  ]
+  
